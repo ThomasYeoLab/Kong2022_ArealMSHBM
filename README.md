@@ -28,7 +28,7 @@ https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellat
 Parcellation Release
 ====
 
-For each resolution, the relevant parcellations for all HCP subjects were saved as a `64984 x 1029` matrix, where each column corresponds to the parcellation of a single subject. The subject order list can be found in here: link_to_be_add.
+For each resolution, the relevant parcellations for all HCP subjects were saved as two `32492 x 1029` matrix, where each column corresponds to the parcellation of a single subject. The color table is also attached together. The subject order list can be found in here: link_to_be_add.
 
 For resolution K, the individual areal-level parcellations can be found here:
 + link_to_be_add
